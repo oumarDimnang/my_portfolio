@@ -19,7 +19,7 @@ const Projects = () => {
             image: image2,
             title: 'Todo App',
             description: 'A todo app that helps you manage your tasks.',
-            technologies: ["TypeScript", "Node.js", "Express.js", "MongoDB"],
+            technologies: ["React", "Node.js", "Express.js", "MongoDB"],
         },
         {
             image: image3,
